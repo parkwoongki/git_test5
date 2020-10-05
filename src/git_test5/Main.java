@@ -3,7 +3,7 @@ package git_test5;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class Main {  
 
 	static int[] createArray(int size, int minValue, int maxValue) {
 		Random random = new Random();
